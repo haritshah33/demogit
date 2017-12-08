@@ -1,0 +1,11 @@
+C:\Users\CLOUDTHAT\Source\Repos\PostgreSQLDemo\PostgreSQLDemo\bin\Debug\PostgreSQLDemo.exe.config
+C:\Users\CLOUDTHAT\Source\Repos\PostgreSQLDemo\PostgreSQLDemo\bin\Debug\PostgreSQLDemo.exe
+C:\Users\CLOUDTHAT\Source\Repos\PostgreSQLDemo\PostgreSQLDemo\bin\Debug\PostgreSQLDemo.pdb
+C:\Users\CLOUDTHAT\Source\Repos\PostgreSQLDemo\PostgreSQLDemo\bin\Debug\Npgsql.dll
+C:\Users\CLOUDTHAT\Source\Repos\PostgreSQLDemo\PostgreSQLDemo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\CLOUDTHAT\Source\Repos\PostgreSQLDemo\PostgreSQLDemo\bin\Debug\Npgsql.xml
+C:\Users\CLOUDTHAT\Source\Repos\PostgreSQLDemo\PostgreSQLDemo\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\CLOUDTHAT\Source\Repos\PostgreSQLDemo\PostgreSQLDemo\obj\Debug\PostgreSQLDemo.csprojResolveAssemblyReference.cache
+C:\Users\CLOUDTHAT\Source\Repos\PostgreSQLDemo\PostgreSQLDemo\obj\Debug\PostgreSQLDemo.csproj.CoreCompileInputs.cache
+C:\Users\CLOUDTHAT\Source\Repos\PostgreSQLDemo\PostgreSQLDemo\obj\Debug\PostgreSQLDemo.exe
+C:\Users\CLOUDTHAT\Source\Repos\PostgreSQLDemo\PostgreSQLDemo\obj\Debug\PostgreSQLDemo.pdb
